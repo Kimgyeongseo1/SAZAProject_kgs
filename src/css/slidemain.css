@@ -188,13 +188,13 @@ div#slideWrap4 {
   }
   /* 패럴랙스 사용을 위해 백그라운드 이미지 사용 */
   div#slideWrap1 p#slide1 {
-    background-image: url("/src/images/main_slide/mainSlide_men_1.jpeg");
+    background-image: url("https://kimgyeongseo1.github.io/SAZAProject_kgs/src/images/main_slide/mainSlide_men_1.jpeg");
   }
   div#slideWrap2 p#slide2 {
-    background-image: url("/src/images/main_slide/mainSlide_men_2.jpeg");
+    background-image: url("https://kimgyeongseo1.github.io/SAZAProject_kgs/src/images/main_slide/mainSlide_men_2.jpeg");
   }
   div#slideWrap3 p#slide3 {
-    background-image: url("/src/images/main_slide/mainSlide_men_3.jpeg");
+    background-image: url("https://kimgyeongseo1.github.io/SAZAProject_kgs/src/images/main_slide/mainSlide_men_3.jpeg");
   }
 
   /* 슬라이드 이미지 영역 */

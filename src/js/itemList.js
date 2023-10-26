@@ -52,7 +52,7 @@ $(function () {
     $(".category-button").removeClass("selected");
     $("#" + category).addClass("selected");
 
-    fetch(`/src/data/${category}.json`)
+    fetch(`https://kimgyeongseo1.github.io/SAZAProject_kgs/src/data/${category}.json`)
       .then((response) => response.json()) //json을 객체로 변환
       .then((responseObejct) => {
         //객체로 출력
